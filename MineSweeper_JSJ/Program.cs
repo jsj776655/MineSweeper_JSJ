@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Windows.Forms;
-using MineSweeper_JSJ.Image;
-using MineSweeper_JSJ.GameField;
 
 namespace MineSweeper_JSJ
 {

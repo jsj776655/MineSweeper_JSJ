@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace MineSweeper_JSJ.Constants
 {
     //게임에 사용할 상수들 모음집
